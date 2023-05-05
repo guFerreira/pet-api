@@ -1,4 +1,4 @@
-package com.gustavo.pet.controller;
+package com.gustavo.pet.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
